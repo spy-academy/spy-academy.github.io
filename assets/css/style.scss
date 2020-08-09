@@ -1,11 +1,11 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
 
 h1 img {
     border: 0;
-	box-shadow: none;
-	vertical-align: bottom;
-	margin: 4px;
+    box-shadow: none;
+    vertical-align: bottom;
+    margin: 8px;
 }
